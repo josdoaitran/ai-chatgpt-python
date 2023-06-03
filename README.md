@@ -12,3 +12,9 @@ chatGPT-python
 
 ## ChatGPT project with Langchain
 - Reference: https://github.com/hwchase17/langchain
+
+
+Reference:
+- https://www.youtube.com/watch?v=c-g6epk3fFE
+- https://www.youtube.com/watch?v=w-X_EQ2Xva4
+- 
