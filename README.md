@@ -4,6 +4,11 @@ chatGPT-python
 ## ChatGPT project with OpenAI libary:
 - Reference: https://platform.openai.com/docs/api-reference/introduction
 
+- Install library:
+```
+!pip install openai
+```
+
 
 ## ChatGPT project with Langchain
 - Reference: https://github.com/hwchase17/langchain
